@@ -17,8 +17,8 @@ public class Calc
 		{
 		 case1:// ADD
 			break;
-		 case1:// Sub
-			break;
+		 ccase2: System.out.println("Subtraction of "+num1+" and "+num2+" is "+(num1-num2));
+                        break;
 		 case1:// Mul
 			break;
 		 case1:// Div
